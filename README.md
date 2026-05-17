@@ -65,7 +65,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://facebook.com/ShriPrantaNag" target="_blank">
+  <a href="[https://www.facebook.com/mdyka.khan.3]" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/PrantaNag" target="_blank">
