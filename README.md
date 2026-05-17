@@ -1,60 +1,60 @@
-<h1 align="center">Hey, I'm Md. Yeasin khan 👋</h1>
+```md
+<h1 align="center">Hi 👋, I'm Md. Yeasin Khan</h1>
+
+<h3 align="center">
+Flutter Developer • Mobile App Learner • Future Product Builder
+</h3>
 
 <p align="center">
-  <code>$ flutter build && pm plan --strategy agile</code>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Product%20Manager-%2310B981?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter%20Developer-%230553B1?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mobile%20App%20Learner-%238B5CF6?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bangladesh-%23F59E0B?style=flat-square&logoColor=white" />
-</p>
-
-<p align="center">
-  Building products at the intersection of great UX and clean code.<br/>
-  Passionate about mobile experiences that actually delight users.
+  <a href="https://github.com/Mdyeasinkhan4">
+    <img src="https://komarev.com/ghpvc/?username=Mdyeasinkhan4&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-| | |
-|---|---|
-| 🔭 **Working on** | Product Management & Flutter Development |
-| 🌱 **Learning** | Mobile App Development |
-| 💬 **Ask me about** | Flutter, Product Strategy, UI/UX |
-| ⚡ **Fun fact** | I think in user stories, not just code |
+- 🌱 Currently learning **Flutter & Mobile App Development**
+- 💡 Interested in **UI/UX, Product Design & App Development**
+- 🔥 Building projects with **Flutter, Dart & Firebase**
+- 🎯 Goal: Become a skilled **Flutter Developer**
+- ⚡ Fun Fact: *I love turning ideas into mobile apps*
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Primary**
+### 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-![GetX](https://img.shields.io/badge/GetX-%238B5CF6?style=flat-square&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-%234C1D95?style=flat-square&logoColor=white)
-
-**Tools & PM**
-
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+### 🧰 Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mdyeasinkhan4&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrantaNag&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mdyeasinkhan4&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdyeasinkhan4&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -63,15 +63,17 @@
 
 <p align="left">
   <a href="https://www.facebook.com/mdyka.khan.3" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
+
+  <a href="https://github.com/Mdyeasinkhan4" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <sub>— Yeasin khan · Built with Flutter & shipped with care —</sub>
-</p>
+<h3 align="center">
+✨ "Code. Learn. Build. Repeat." ✨
+</h3>
+```
