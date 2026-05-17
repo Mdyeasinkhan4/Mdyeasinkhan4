@@ -51,10 +51,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrantaNag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrantaNag&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrantaNag&theme=tokyonight&hide_border=true" />
@@ -65,10 +62,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="[https://www.facebook.com/mdyka.khan.3]" target="_blank">
+  <a href="https://www.facebook.com/mdyka.khan.3" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/PrantaNag" target="_blank">
+  <a href="https://linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -76,5 +73,5 @@
 ---
 
 <p align="center">
-  <sub>— Pranta Nag · Built with Flutter & shipped with care —</sub>
+  <sub>— Yeasin khan · Built with Flutter & shipped with care —</sub>
 </p>
