@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Flutter+Developer;App+Developer;Learning+Dart+and+Flutter;Building+Cool+Mobile+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Flutter+Developer;App+Developer;Learning+Dart+and+Flutter;Building+Cool+Mobile+Apps" />
 </p>
 
 ---
@@ -66,8 +66,15 @@
 
 ---
 
+## 📈 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Mdyeasinkhan4&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
 <p align="center">
   ✨ Thanks for visiting my profile ✨
 </p>
 ```
-
