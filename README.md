@@ -1,13 +1,10 @@
-```md
 <h1 align="center">
-  Hey 👋, I'm 
-  <a href="https://github.com/Mdyeasinkhan4">
-    Md Yeasin Khan
-  </a>
+  Hey 👋, I'm
+  <a href="https://github.com/Mdyeasinkhan4"> Md Yeasin Khan</a>
 </h1>
 
 <h3 align="center">
- 🚀 Flutter Developer | 📱 App Developer | 💻 Learning Everyday
+  🚀 Flutter Developer | 📱 App Developer | 💻 Learning Everyday
 </h3>
 
 <p align="center">
@@ -38,8 +35,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mdyeasinkhan4&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mdyeasinkhan4&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Mdyeasinkhan4&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -58,7 +54,7 @@
   <a href="https://www.facebook.com/mdyka.khan.3">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-
+  &nbsp;
   <a href="https://www.linkedin.com/in/md-yeasin-khan-02a57b219/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -74,7 +70,4 @@
 
 ---
 
-<p align="center">
-  ✨ Thanks for visiting my profile ✨
-</p>
-```
+<p align="center">✨ Thanks for visiting my profile ✨</p>
