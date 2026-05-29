@@ -39,7 +39,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 💼 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-Developer-blue?style=for-the-badge&logo=flutter" />
