@@ -42,7 +42,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=Mdyeasinkhan4&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://img.shields.io/badge/Flutter-Developer-blue?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/Dart-Language-0175C2?style=for-the-badge&logo=dart" />
+  <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase" />
 </p>
 
 ---
