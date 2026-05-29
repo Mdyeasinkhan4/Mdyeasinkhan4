@@ -26,7 +26,7 @@
 ## 🚀 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,vscode,androidstudio,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,vscode,androidstudio,cpp,c,python" />
 </p>
 
 ---
