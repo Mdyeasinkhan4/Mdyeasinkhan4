@@ -34,7 +34,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://stats.hySafe.vercel.app/api?username=Mdyeasinkhan4&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://readme-stats-git-main.onrender.com/api?username=Mdyeasinkhan4&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
    <img src="https://streak-stats.demolab.com?user=Mdyeasinkhan4&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
@@ -43,7 +43,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mdyeasinkhan4&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+ <img src="https://github-profile-trophy.vercel.app/?username=Mdyeasinkhan4&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
