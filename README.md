@@ -69,6 +69,12 @@
 
 ---
 
+### 🌐 Portfolio
+
+Checkout my live portfolio: [ykdev.lovable.app](https://ykdev.lovable.app)
+
+---
+
 ## 📈 Profile Views
 
 <p align="left">
